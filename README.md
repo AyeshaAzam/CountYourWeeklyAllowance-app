@@ -22,4 +22,5 @@ This is a simple project in react, counting children weekly and monthly money po
   
 
 <img src="https://github.com/AyeshaAzam/CountYourWeeklyAllowance-app/blob/master/src/images/weeklyAllowance-app-1.PNG" />
+###---------------------------------------------------------------------------------------------------------------------
 <img src="https://github.com/AyeshaAzam/CountYourWeeklyAllowance-app/blob/master/src/images/weeklyAllowance-app-2.PNG" />
