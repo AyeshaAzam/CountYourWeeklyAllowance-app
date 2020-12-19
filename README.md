@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 # Hosting URL :  https://stupefied-heisenberg-f76b46.netlify.app/
-# check also : https://codesandbox.io/s/weekly-allowance-yt358?file=/src/App.js
+### check also : https://codesandbox.io/s/weekly-allowance-yt358?file=/src/App.js
 
 # Getting Started with Create React App
 
@@ -22,4 +22,4 @@ This is a simple project in react, counting children weekly and monthly money po
   
 
 <img src="https://github.com/AyeshaAzam/CountYourWeeklyAllowance-app/blob/master/src/images/weeklyAllowance-app-1.PNG" />
-<img src="https://github.com/AyeshaAzam/CountYourWeeklyAllowance-app/blob/master/src/images/weeklyAllowance-app-.PNG" />
+<img src="https://github.com/AyeshaAzam/CountYourWeeklyAllowance-app/blob/master/src/images/weeklyAllowance-app-2.PNG" />
