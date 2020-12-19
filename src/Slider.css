@@ -7,7 +7,7 @@
 .slider__sliderAge {
   min-width: 300px;
   position: absolute;
-  top: 20%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -22,7 +22,7 @@ h4 {
   max-width: 300px;
   /* margin: 0 auto; */
   position: absolute; /* parent slider__container is relative */
-  top: 30%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, 20%);
 }
