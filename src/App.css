@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+}
+
+/* .app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  width: 19rem;
+  margin: 20vh auto;
+  box-shadow: 15px 20px 70px -10px;
+} */
+
+.app {
+  text-align: center;
+}
+
+.app__text {
+  margin-bottom: 15%;
+}
+
+/* .app__slider {
+  margin-top: 20px;
+}  */
