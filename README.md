@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 # Hosting URL :  https://stupefied-heisenberg-f76b46.netlify.app/
-### check also : https://codesandbox.io/s/weekly-allowance-yt358?file=/src/App.js
+### check also : https://codesandbox.io/s/weekly-allowance-for-children-fmn95?file=/src/App.js
 
 # Getting Started with Create React App
 
